@@ -3,12 +3,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=IrvingFSanchez&color=brightgreen)  
 
 ## 🚀 About Me  
-- 🧑‍💻 **Software Engineer** | 🌟 **Electrician** | 🎖️ **Military Veteran** | **Lifelong-Learner**  
+- 🧑‍💻 **Software Engineer** | ⚡️ **Prior Electrician** | 🎖️ **Military Veteran** | 🧘🏾 **Lifelong-Learner** 
 - 💡 I specialize in **Web Development**, **Custom PC Builds**, and **Software Development**.  
 - 🌱 Currently exploring **Cloud Technologies** **Machine Learning** **Artificial Intelligence** and **Cyber Security**
 - 📍 Based in the digital realm of creativity and innovation!  
-
----
 
 ### 🛠️ My Tech Stack  
 
@@ -39,6 +37,12 @@
 
 - **Operating Systems**:  
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+  ![WSL](https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=linux&logoColor=white)  
+
+- **Design Tools**:  
+  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
+  ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)  
 
 ---
 
@@ -52,14 +56,9 @@
 
 ### 🌟 Highlights  
 
-- **Featured Projects**:  
-- 🌐 Website: **Coming Soon!** Featuring:  
-  - 🖥️ **Custom PC Builds**  
-  - 🧮 **Math Tutoring**  
-  - 🕶️ **Streamer Overlays & Designs**  
-
-- 💡 **Fun Facts**:  
-  - I’m addicted to **problem-solving** and **learning new tech**.  
+- 💡 **Fun Facts**:
+  - My favorite tech support include a Jack Russell Terrier and a Mini Dachshund 🐶  
+  - I’m addicted to **chess, comic books, and magic the gathering**.  🧠
   - My motto: "Adapt. Overcome. Code." 💻  
 
 ---
@@ -68,10 +67,18 @@
 
 - 📧 Email: [IrvingFSanchez@proton.me](mailto:IrvingFSanchez@proton.me)  
 - 🌐 Website: [Personal Portfolio](https://irvingfsanchez.dev)  
-- 💬 Connect:  
+- 💬 Connect:
+  - 🌐 Website: **Coming Soon!** Featuring:  
+  - 🖥️ **Custom PC Builds**  
+  - 🧮 **Math Tutoring**  
+  - 🕶️ **Streamer Overlays & Designs**
+  - 🪬 **Ethical Hacking Tutorials**
+  - 📊 **Software Development**  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
   [Visit my GitHub](https://github.com/IrvingFSanchez)  
   ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+  
   [Check out my Instagram](https://www.instagram.com/i.am.groot.48/)
 
 ---
