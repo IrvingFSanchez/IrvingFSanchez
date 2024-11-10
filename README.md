@@ -66,7 +66,6 @@
 ### 📫 How to Reach Me  
 
 - 📧 Email: [IrvingFSanchez@proton.me](mailto:IrvingFSanchez@proton.me)  
-- 🌐 Website: [Personal Portfolio](https://irvingfsanchez.dev)  
 - 💬 Connect:
 
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i.am.groot.48/)
