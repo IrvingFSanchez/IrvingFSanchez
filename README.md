@@ -74,9 +74,7 @@
   - 🕶️ **Streamer Overlays & Designs**
   - 🪬 **Ethical Hacking Tutorials**
   - 📊 **Software Development**  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-  [Visit my GitHub](https://github.com/IrvingFSanchez)  
   ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
   
   [Check out my Instagram](https://www.instagram.com/i.am.groot.48/)
