@@ -6,7 +6,7 @@
 - 🧑‍💻 **Software Engineer** | ⚡️ **Prior Electrician** | 🎖️ **Military Veteran** | 🧘🏾 **Lifelong-Learner** 
 - 💡 I specialize in **Web Development**, **Software Development**, and **Custom PC Builds**.  
 - 🌱 Currently exploring **Cloud Technologies** **Machine Learning** **Artificial Intelligence** and **Cyber Security**
-- 📍 Based in the digital realm of creativity and innovation!  
+- 🤖 Keyboard Warrior against the uprise of Skynet 🦾
 
 ### 🛠️ My Tech Stack  
 
