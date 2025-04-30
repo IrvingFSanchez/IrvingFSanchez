@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🧑‍💻 **Software Engineer** | ⚡️ **Former Electrician** | 🎖️ **Military Veteran** | 🧘🏾 **Lifelong Learner**
 - 💡 Passionate about **Web & Software Development**, and **Custom PC Builds**
-- 🌱 Exploring **Cloud Technologies**, **Machine Learning**, **Artificial Intelligence**, **Cyber Security**, and **Tailwind CSS**
+- 🌱 Exploring **Cloud Technologies**, **Machine Learning**, **Artificial Intelligence**, **Cyber Security**, **Computer Engineering**
 - 🤖 Actively resisting the rise of Skynet one line of code at a time 🧫
 
 ---
