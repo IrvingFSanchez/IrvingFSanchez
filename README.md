@@ -53,9 +53,26 @@
 
 ## 📊 GitHub Stats
 
-| Stats | Languages |
-|-------|-----------|
-| ![Irving's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrvingFSanchez&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrvingFSanchez&layout=compact&theme=radical) |
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Integrity+%E2%86%92+SBS+%E2%86%92+EIAWD;React+%2B+TypeScript+%7C+FastAPI+%7C+.NET+%7C+SQL;Veteran+Mindset%3A+Reliability+First" />
+</p>
+
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=IrvingFSanchez&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=86400" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrvingFSanchez&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=IrvingFSanchez&theme=radical&hide_border=true&type=png" />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=IrvingFSanchez&theme=radical&no-frame=true&column=7&margin-w=10" />
+</p>
 
 ---
 
