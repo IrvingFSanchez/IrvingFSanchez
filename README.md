@@ -52,7 +52,7 @@ Syllabye is a full-stack web application designed to streamline academic syllabu
 - Integrated Firebase for PDF storage and supported deployment through Azure Static Web Apps and Google Cloud
 - Led Agile/Scrum workflows as Product Owner, including sprint coordination, backlog organization, GitHub collaboration, and project handoff documentation
 
-🔗 **Repository:** [[Syllabye-Capstone](https://github.com/ChairForce-1-0/Syllabye-Capstone)]
+🔗 **Repository:** [Syllabye-Capstone](https://github.com/ChairForce-1-0/Syllabye-Capstone)
 
 ---
 
@@ -156,6 +156,7 @@ MachinePulse is an industrial IoT monitoring prototype designed to simulate real
 ## 🌟 A Few Fun Facts
 
 - 🐶 My favorite tech support team includes Groot the Jack Russell Terrier and Peter the Mini Dachshund
+- 🤓 I'm kind of a nerd when it comes to technical documentation--I love creating them!
 - ♟️ I enjoy chess, strategy games, and Magic: The Gathering
 - 📚 I love medieval fantasy, comics, and stories about persistence against impossible odds
 - 🎮 FromSoftware games keep teaching me the same lesson as debugging: observe, adapt, retry
